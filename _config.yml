@@ -1,4 +1,4 @@
-# This is the default format. 
+ï»¿# This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 gems: [jekyll-paginate]
 permalink: /:categories/:year/:month/:day/:title 
@@ -38,9 +38,9 @@ defaults:
 
 ##### Menu
 menu:
-  Ê×Ò³: /
-  ¹éµµ: /archives
-  ¹ØÓÚ: /about
+  é¦–é¡µ: /
+  å½’æ¡£: /archives
+  å…³äºŽ: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as

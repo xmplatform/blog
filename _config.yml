@@ -8,7 +8,7 @@ highlighter: rouge
 
 assets: https://xmplatform.github.io/blog/assets
 baseurl: https://xmplatform.github.io/blog
-
+base.url: https://xmplatform.github.io/blog
 # pagination
 paginate: 10
 
